@@ -1,5 +1,7 @@
 # 📜 Certificaciones Profesionales - Victor Villegas
 
+![VictorVillegas-ProfessionalCredentials](assets/heroCertificaciones.png)
+
 Bienvenido a mi repositorio de certificaciones.
 Este espacio complementa mi perfil profesional como analista y ciencia de datos y consultor en medio ambiente, mostrando mi formación técnica junto a la aplicación práctica en proyectos reales.
 
